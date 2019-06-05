@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="postHoneyComb">true</bool>
+    <bool name="postIceCreamSandwich">true</bool>
+    <bool name="postJellyBean">true</bool>
+
+</resources>

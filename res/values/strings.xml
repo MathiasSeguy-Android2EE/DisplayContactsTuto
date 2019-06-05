@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">DisplayContactsTuto</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ContactsTuto</string>
+    <!-- [id]name (type) has a phone number : hasPhoneNum [pictId=pictureId] -->
+    <string name="param_message">[%1$s]%2$s (%3$s) has a phone number : %4$s [pictId=%5$s]</string>
+    <string name="eol">\r\n</string>
+
+</resources>
